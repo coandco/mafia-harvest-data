@@ -1,0 +1,47 @@
+har_bountyhunt_easy	Easy bounty	Do you want to do an easy bountyhunt each day before farming?	boolean
+har_bountyhunt_hard	Hard bounty	Do you want to do a hard bountyhunt each day before farming?	boolean
+har_bountyhunt_special	Special bounty	Do you want to do a special bountyhunt each day before farming?	boolean
+har_bountyhunting_fam	Familiar	The familiar you want to use while bountyhunting	familiar
+har_bountyhunting_famequip	Familiar equipment	The equipment you want your familiar to wear while you bountyhunt	item
+har_bountyhunting_mood	Mood	The mood you want to use while bountyhunting	string
+har_bountyhunting_outfit	Outfit	The outfit you want to bountyhunt in	string
+har_bountyhunting_putty	Hunt with copiers	Do you want to use spooky putty and/or rain-doh to speed up bountyhunting?	boolean
+har_duckhunt	Hunt ducks	Do you want to hunt some ducks each day before farming?	boolean
+har_duckhunting_fam	Familiar	The familiar you want to use while duck hunting	familiar
+har_duckhunting_famequip	Familiar equipment	The equipment you want your familiar to wear while you duck hunt	item
+har_duckhunting_mood	Mood	The mood you want to use while duck hunting	string
+har_duckhunting_outfit	Outfit	The outfit you want to duck hunt in	string
+har_farm	Farm	Do you want the script to farm for you?	boolean
+har_farming_disco_combos	Use disco combos	If checked Harvest will use as many disco and rave combos as possible during each combat (note that you must be a Disco Bandit to use dance combos). Combos can use a lot of MP, so you should determine the profitability of this feature before applying it. You should also make sure that your mafia restoration settings will ensure that you have enough MP each combat to perform combos	boolean
+har_farming_fam	Familiar	The familiar you want to farm with	familiar
+har_farming_famequip	Familiar equipment	The equipment you want your familiar to wear while you farm	item
+har_farming_location	Location	The area you wish to farm in	location
+har_farming_mood	Mood	The mood you want to use while farming	string
+har_farming_olfacted_monster	Monster to olfact	If you want to olfact a monster while you farm enter its name here, otherwise leave blank	monster
+har_farming_outfit	Outfit	The outfit you want to farm in	string
+har_farming_putty_olfacted	Copy olfacted monster	Do you want to use putty and/or rain-doh on your olfacted monster while you farm to speed up re-olfaction after On the Trail wears off?	boolean
+har_farming_sea_hat	Sea hat	If you have really deep breath active you don&#39t need a diving helmet on to farm underwater so Harvest can swap out your helmet for a better hat, specify that hat here, or leave blank to skip automatic hat-switching	item
+har_gen_bbs	Between battle script	If you want Harvest to use a particular BBS while running enter its name here, otherwise leave blank and Harvest will respect your current settings (ie: it won&#39t change whatever you have your BBS set it, be it a script or nothing at all)	string
+har_gen_buy_recordings	Buy recordings	If checked Harvest will buy recordings of AT songs (if available) if you are unable to get enough turns of a buff specified in HAR_Buffbot_Buffs.txt	boolean
+har_gen_ccs	Custom combat script	The CCS Harvest will use to handle combat	string
+har_gen_concert_effect	Island concert effect	The effect to get from the island arena	effect
+har_gen_consume_script	Consume script	The script Harvest will use to fill your stomach, liver and spleen. This script will be called TWICE, once to fill you up at the start of the day and again later to drink a nightcap	string
+har_gen_defaultocd	Use default OCD data	If ticked, Harvest will use the supplied default data for castle items when cleaning up your inventory. Using this data saves you configuring OCD for yourself	boolean
+har_gen_demon_to_summon	Demon to summon	The effect you want to get from the summoning chamber immediately before farming	string
+har_gen_dosemirares	Get semirares	Do you want the script to automatically get semirares for you during adventuring? (requires CounterChecker.ash)	boolean
+har_gen_finish_up_script	End-of-day script	If you want Harvest to run a script of your choosing immediately after farming (and before overdrinking, inventory cleaning etc.) enter its name here, otherwise leave blank	string
+har_gen_friar_blessing	Friar blessing	The type of blessing you want to get from the friars	string
+har_gen_hatter_buff	Hatter buff	The buff to get from the hatter	effect
+har_gen_overdrink	Overdrink	If checked Harvest will overdrink after farming	boolean
+har_gen_pool_style	Pool style	Your favoured pool style	string
+har_gen_postconsumption_script	Post-consumption script	If you want Harvest to run a script of your choosing after filling your organs enter its name here otherwise leave blank	string
+har_gen_preconsumption_script	Pre-consumption script	If you want Harvest to run a script of your choosing before filling your organs enter its name here otherwise leave blank	string
+har_gen_sugarshields	Use sugar shields	If checked the script will use sugar shields while copyfarming and farming (not bountyhunting) if you have any in your inventory. Breakable handling is built in to mafia, so check your settings to make sure you are happy with how everything is set up	boolean
+har_gen_verbosity	Verbosity	The level of detail with which the script will report to you about its activities	int
+har_puttyfarm	Copyfarm	Do you want to farm a monster trapped in your spooky putty and/or rain-doh each day before farming?	boolean
+har_puttyfarming_fam	Familiar	The type of familiar you want to use while copyfarming	familiar
+har_puttyfarming_famequip	Familiar equipment	The equipment you want your familiar to wear while copyfarming	item
+har_puttyfarming_mood	Mood	The mood you want to use while copyfarming	string
+har_puttyfarming_outfit	Outfit	The name of the outfit you want to copyfarm in	string
+har_rollover_outfit	Outfit	The name of your rollover outfit. This outfit will be automatically updated to maximise your rollover adventures (only considers gear you already own)	string
+valueOfAdventure	Value of Adventure	Mafia&#39s internal setting for how much meat you consider an adventure to be worth. This will affect ALL scripts that use this value, including but not limited to EatDrink	property

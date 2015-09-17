@@ -1,0 +1,20 @@
+Angry Farmer candy	AUTO	0		
+awful poetry journal	AUTO	0		
+chaos butterfly	AUTO	0		
+disturbing fanfic	AUTO	0		
+furry fur	AUTO	0		
+giant needle	PULV	0		
+goth kid t-shirt	MALL	1		
+heavy D	AUTO	0		
+Mace of the Tortoise	MALL	1		
+Mick's IcyVapoHotness Inhaler	MALL	0		
+Mick's IcyVapoHotness Rub	AUTO	0		
+original G	AUTO	0		
+plot hole	AUTO	0		
+probability potion	AUTO	0		
+procrastination potion	AUTO	0		
+rave whistle	PULV	0		
+Rock and Roll Legend	MALL	1		
+thin black candle	AUTO	3		
+Warm Subject gift certificate	USE	0		
+wolf mask	PULV	0		

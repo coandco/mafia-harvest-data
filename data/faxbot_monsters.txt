@@ -1,0 +1,128 @@
+7-Foot Dwarf	miner
+Alphabet Giant	alphabet
+Ambulatory Pirate	ambulatory_pirate
+Angels of Avalon	avalon
+Antique Database Server	database_server
+Astronomer	astronomer
+Bad ASCII Art	ascii
+Bailey's Beetle	baileys
+Baseball Bat	baseball
+Batwinged Gremlin	batwinged
+Big Creepy Spider	spider
+Black Panther	black_panther
+Black Widow	black_widow
+Black-and-White-Ops Penguin	ops_penguin
+Blooper	blooper
+Blur	blur
+Bob Racecar	bob
+Bolt-Cuttin' Elf	bolt_elf 
+Booze Giant	booze
+Brainsweeper	brainsweeper
+C. H. U. M. Chieftain	chieftain
+Cement Cobbler Penguin	cement_penguin
+Claw-foot Bathtub	bathtub
+Cleanly Pirate	cleanly
+clod hopper	clodhopper
+Creamy Pirate	creamy
+Curmudgeonly Pirate	curmudgeonly
+Dairy Goat	dairy_goat
+Demonic Icebox	icebox
+Dirty Hippy Jewelry Maker	prewar_hippy
+Dirty Thieving Brigand	brigand
+Disease-In-The-Box	disease
+Elite Beer Bongadier	beer_bongadier
+Erudite Gremlin	erudite
+Evil Spaghetti Cult Middle-Manager	manager
+Five Skeleton Invaders	skeleton_invaders
+Fruit Golem	fruit_golem
+Fudge weasel	fudge_weasel
+Furry Giant	furry
+G Imp	g_imp
+Gang of Hobo Muggers	muggers
+Gaudy Pirate	gaudy
+Ghost	ghost
+Gnollish Crossdresser	crossdresser
+Gnollish Gearhead	gearhead
+Gnollish Tirejuggler	tirejuggler
+Goth Giant	goth
+Grungy Pirate	grungy
+Handsome Mariachi	handsomeness
+Hellion	hellion
+Hellseal pup	hellpup
+Hung-over Half-Orc Hobo	half_orc
+Hustled Spectre	hustled_spectre
+Irate Mariachi	irate
+Knight (Snake)	knight
+Knight in White Satin	white_knight
+Knob Goblin Elite Guard Captain	kge
+Knob Goblin Embezzler	embezzler
+Knob Goblin Harem Girl	harem_girl
+Knob Goblin Master Chef	master_chef
+Large Kobold	kobold
+Lemon-In-The-Box	lemonbox
+Lobsterfrogman	lobsterfrogman
+MagiMechTech MechaMech	mech
+Mariachi Calavera	calavera
+Mer-kin Raider	merkin
+Mesmerizing Penguin	mesmerizing
+Mob Penguin Arsonist	penguin_arsonist
+Mob Penguin Demolitionist	demolitionist
+Modern Zmobie	modern_zmobie
+Monkey Wrenchin' Elf	monkey_elf 
+Neptune Flytrap	neptune_flytrap
+Ninja Snowman Janitor	janitor
+none	slime
+Orcish Frat Boy Spy	frat_spy
+peeved roommate	hipster
+Propaganda-Spewin' Elf	prop_elf
+Protagonist	protagonist
+Pygmy Assault Squad	pygmy_assault
+Pygmy Blowgunner	blowgunner
+Quantum Mechanic	mechanic
+Quiet Healer	healer
+Rampaging Adding Machine	adding_machine
+Raver Giant	raver
+reanimated baboon skeleton	reanim_baboon
+reanimated bat skeleton	reanim_bat
+reanimated demon skeleton	reanim_demon
+reanimated giant spider skeleton	reanim_spider
+reanimated serpent skeleton	reanim_serpent
+reanimated wyrm skeleton	reanim_wyrm
+Remains of a Jilted Mistress	jilted
+rockfish	rockfish
+Rotund Duck	rotund
+Screambat	screambat
+Sexy Sorority Ghost	sexy_ghost
+Sexy Sorority Skeleton	sexy_skeleton
+Sexy Sorority Vampire	sexy_vampire
+Sexy Sorority Werewolf	sexy_werewolf
+Sexy Sorority Zombie	sexy_zombie
+Shaky Clown	shaky
+Skeletal Sommelier	wine
+Skinflute	skinflute
+Skullbat	skullbat
+Sleepy Mariachi	sleepy_mariachi
+Smarmy Pirate	smarmy
+Spam Witch	spam_witch
+Spider Gremlin	spider_gremlin
+Sub-Assistant Knob Mad Scientist	firecracker
+Swarm of fudgewasps	fudge_wasps
+Swarm of Scarab Beatles	beatles
+Toilet-papered Tree	tp_tree
+Tomb Rat	tomb_rat
+Tomb Servant	tomb_servant
+Triffid	triffid
+Undercover Penguin	undercover_penguin
+Unemployed Knob Goblin	beer_lens
+Unholy Diver	unholy_diver
+Vegetable Gremlin	vegetable
+W Imp	wimp
+War Frat Mobile Grill Unit	grill_unit
+War Hippy Elite Fire Spinner	fire_spinner
+War Hippy Spy	war_hippy_spy
+Whiny Survivor	whiny_survivor
+White Lion	white_lion
+Whitesnake	white_snake
+Writing Desk	writing_desk
+XXX pr0n	pron
+Zombie Waltzers	waltzers

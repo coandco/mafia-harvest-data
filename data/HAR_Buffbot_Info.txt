@@ -1,0 +1,112 @@
+buffy	Aloysius' Antiphon of Aptitude	-1
+buffy	Astral Shell	-1
+buffy	Brawnee's Anthem of Absorption	-1
+buffy	Carlweather's Cantata of Confrontation	-1
+buffy	Cletus's Canticle of Celerity	-1
+buffy	Cringle's Curative Carol	-1
+buffy	Dirge of Dreadfulness	-1
+buffy	Elemental Saucesphere	-1
+buffy	Empathy	-1
+buffy	Fat Leon's Phat Loot Lyric	-1
+buffy	Ghostly Shell	-1
+buffy	Jaba&ntilde;ero Saucesphere	-1
+buffy	Jackasses' Symphony of Destruction	-1
+buffy	Jalape&ntilde;o Saucesphere	-1
+buffy	Jingle Jangle Jingle	-1
+buffy	Ode to Booze	-1
+buffy	Polka of Plenty	-1
+buffy	Power Ballad of the Arrowsmith	-1
+buffy	Psalm of Pointiness	-1
+buffy	Reptilian Fortitude	-1
+buffy	Scarysauce	-1
+buffy	Stevedave's Shanty of Superiority	-1
+buffy	Tenacity of the Snapper	-1
+buffy	The Magical Mojomuscular Melody	-1
+buffy	The Moxious Madrigal	-1
+buffy	The Sonata of Sneakiness	-1
+buffy	Ur-Kel's Aria of Annoyance	-1
+iocainebot	Aloysius' Antiphon of Aptitude	22
+iocainebot	Astral Shell	10
+iocainebot	Brawnee's Anthem of Absorption	9
+iocainebot	Carlweather's Cantata of Confrontation	19
+iocainebot	Cletus's Canticle of Celerity	3
+iocainebot	Elemental Saucesphere	11
+iocainebot	Empathy	15
+iocainebot	Fat Leon's Phat Loot Lyric	14
+iocainebot	Ghostly Shell	6
+iocainebot	Jaba&ntilde;ero Saucesphere	12
+iocainebot	Jackasses' Symphony of Destruction	17
+iocainebot	Jalape&ntilde;o Saucesphere	4
+iocainebot	Ode to Booze	23
+iocainebot	Polka of Plenty	7
+iocainebot	Power Ballad of the Arrowsmith	5
+iocainebot	Psalm of Pointiness	16
+iocainebot	Reptilian Fortitude	13
+iocainebot	Stevedave's Shanty of Superiority	20
+iocainebot	Tenacity of the Snapper	8
+iocainebot	The Magical Mojomuscular Melody	2
+iocainebot	The Moxious Madrigal	1
+iocainebot	The Sonata of Sneakiness	18
+iocainebot	Ur-Kel's Aria of Annoyance	21
+kolabuff	Aloysius' Antiphon of Aptitude	26
+kolabuff	Astral Shell	13
+kolabuff	Brawnee's Anthem of Absorption	19
+kolabuff	Carlweather's Cantata of Confrontation	22
+kolabuff	Cletus's Canticle of Celerity	5
+kolabuff	Dirge of Dreadfulness	11
+kolabuff	Elemental Saucesphere	14
+kolabuff	Empathy	20
+kolabuff	Fat Leon's Phat Loot Lyric	18
+kolabuff	Ghostly Shell	8
+kolabuff	Jaba&ntilde;ero Saucesphere	15
+kolabuff	Jackasses' Symphony of Destruction	12
+kolabuff	Jalape&ntilde;o Saucesphere	6
+kolabuff	Ode to Booze	2
+kolabuff	Polka of Plenty	9
+kolabuff	Power Ballad of the Arrowsmith	7
+kolabuff	Psalm of Pointiness	21
+kolabuff	Reptilian Fortitude	17
+kolabuff	Scarysauce	16
+kolabuff	Stevedave's Shanty of Superiority	24
+kolabuff	Tenacity of the Snapper	10
+kolabuff	The Magical Mojomuscular Melody	4
+kolabuff	The Moxious Madrigal	3
+kolabuff	The Sonata of Sneakiness	23
+kolabuff	Ur-Kel's Aria of Annoyance	25
+noblesse oblige	Aloysius' Antiphon of Aptitude	1
+noblesse oblige	Astral Shell	2
+noblesse oblige	Brawnee's Anthem of Absorption	3
+noblesse oblige	Carlweather's Cantata of Confrontation	4
+noblesse oblige	Cletus's Canticle of Celerity	5
+noblesse oblige	Elemental Saucesphere	6
+noblesse oblige	Empathy	7
+noblesse oblige	Fat Leon's Phat Loot Lyric	8
+noblesse oblige	Ghostly Shell	9
+noblesse oblige	Jaba&ntilde;ero Saucesphere	10
+noblesse oblige	Jackasses' Symphony of Destruction	11
+noblesse oblige	Jalape&ntilde;o Saucesphere	12
+noblesse oblige	Ode to Booze	16
+noblesse oblige	Polka of Plenty	17
+noblesse oblige	Power Ballad of the Arrowsmith	18
+noblesse oblige	Psalm of Pointiness	19
+noblesse oblige	Reptilian Fortitude	20
+noblesse oblige	Stevedave's Shanty of Superiority	22
+noblesse oblige	Tenacity of the Snapper	23
+noblesse oblige	The Magical Mojomuscular Melody	13
+noblesse oblige	The Moxious Madrigal	14
+noblesse oblige	The Sonata of Sneakiness	21
+noblesse oblige	Ur-Kel's Aria of Annoyance	24
+testudinata	Aloysius' Antiphon of Aptitude	10
+testudinata	Astral Shell	4
+testudinata	Elemental Saucesphere	5
+testudinata	Empathy	8
+testudinata	Fat Leon's Phat Loot Lyric	6
+testudinata	Ghostly Shell	4
+testudinata	Jaba&ntilde;ero Saucesphere	3
+testudinata	Jalape&ntilde;o Saucesphere	3
+testudinata	Ode to Booze	30
+testudinata	Polka of Plenty	6
+testudinata	Reptilian Fortitude	9
+testudinata	Scarysauce	12
+testudinata	Tenacity of the Snapper	9
+testudinata	The Moxious Madrigal	2
