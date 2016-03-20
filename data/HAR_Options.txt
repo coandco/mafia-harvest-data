@@ -14,7 +14,7 @@ har_duckhunting_outfit	Outfit	The outfit you want to duck hunt in	string
 har_vmine	Volcano Mine	Do you want to farm the Velvet/Gold Mine?	boolean
 har_vmining_outfit	Outfit	Name of the outfit that will give you access to the Velvet/Gold Mine	string
 har_vmining_adventure_limit	Max advs (0 for no limit)	How many adventures do you want to spend here?  0 means no limit.	int
-har_vmining_mine_velvet	Mine velvet?	Do you want the script to mine all the velvet if it hits one?	boolean
+har_vmining_lazy_mine	Lazy mine?	Do you want the script to only mine sparkles in the first two rows?	boolean
 har_vmining_auto_detection	Auto-acquire Object Detection	Do you want the script to use potion of detection as it goes?	boolean
 har_farm	Farm	Do you want the script to farm for you?	boolean
 har_farming_disco_combos	Use disco combos	If checked Harvest will use as many disco and rave combos as possible during each combat (note that you must be a Disco Bandit to use dance combos). Combos can use a lot of MP, so you should determine the profitability of this feature before applying it. You should also make sure that your mafia restoration settings will ensure that you have enough MP each combat to perform combos	boolean
