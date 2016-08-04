@@ -34,7 +34,6 @@ har_gen_consume_script	Consume script	The script Harvest will use to fill your s
 har_gen_defaultocd	Use default OCD data	If ticked, Harvest will use the supplied default data for castle items when cleaning up your inventory. Using this data saves you configuring OCD for yourself	boolean
 har_gen_demon_to_summon	Demon to summon	The effect you want to get from the summoning chamber immediately before farming	string
 har_gen_dosemirares	Get semirares	Do you want the script to automatically get semirares for you during adventuring? (requires CounterChecker.ash)	boolean
-har_gen_doghosts	Fight proton ghosts	Do you want the script to automatically fight proton pack ghosts for you during adventuring?	boolean
 har_gen_finish_up_script	End-of-day script	If you want Harvest to run a script of your choosing immediately after farming (and before overdrinking, inventory cleaning etc.) enter its name here, otherwise leave blank	string
 har_gen_friar_blessing	Friar blessing	The type of blessing you want to get from the friars	string
 har_gen_hatter_buff	Hatter buff	The buff to get from the hatter	effect
